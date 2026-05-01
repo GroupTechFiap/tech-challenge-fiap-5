@@ -55,9 +55,6 @@ A aplicação foi desenvolvida utilizando Streamlit, permitindo:
 - Inserção manual dos indicadores do aluno  
 - Predição em tempo real  
 - Visualização de probabilidade de risco  
-
-Link: https://tech-challenge-fiap-5-p9ra3bvgmam5b57i8hlr6r.streamlit.app/
-
 ---
 
 ## ⚙️ Como Executar Localmente
@@ -75,7 +72,9 @@ streamlit run app.py
 
 ## 🌐 Deploy
 
-Aplicação publicada via Streamlit Cloud.
+Aplicação publicada via Streamlit Cloud:
+
+https://tech-challenge-fiap-5-p9ra3bvgmam5b57i8hlr6r.streamlit.app/
 
 ---
 
