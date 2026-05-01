@@ -105,32 +105,9 @@ A solução permite:
 - Apoiar decisões pedagógicas  
 - Melhorar o acompanhamento educacional  
 - Gerar insights estratégicos para a instituição  
-
----
-
-## ⚠️ Limitações
-
-- O modelo depende da qualidade dos dados de entrada  
-- Não substitui análise pedagógica humana  
-- Pode sofrer variações com novos dados  
-
 ---
 
 ## 🤝 Contribuição
 
 Projeto acadêmico desenvolvido para o Tech Challenge FIAP.
 
----
-
-## 📌 Autor
-
-Wellington Henrique  
-LinkedIn: https://www.linkedin.com/in/wellington-h-63b16814a  
-
----
-
-## 🚀 Status do Projeto
-
-✅ Concluído  
-🌐 Deploy ativo  
-📈 Pronto para apresentação  
