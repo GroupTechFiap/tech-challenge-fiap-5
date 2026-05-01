@@ -56,11 +56,7 @@ A aplicação foi desenvolvida utilizando Streamlit, permitindo:
 - Predição em tempo real  
 - Visualização de probabilidade de risco  
 
----
-
-## 📷 Demonstração
-
-*(adicione aqui um print da aplicação)*
+Link: https://tech-challenge-fiap-5-p9ra3bvgmam5b57i8hlr6r.streamlit.app/
 
 ---
 
